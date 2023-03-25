@@ -6,3 +6,7 @@ You can find specific info and instructions for each tool in its own README file
 ## GoGet
 
 Executes a GET request and downloads the results in a file, logging progress - at a configurable interval - in the meanwhile.
+
+## GoSum
+
+Computes the MD5 checksum of a file.
