@@ -12,11 +12,11 @@ This should start a download, log progress every second and save the file Free_T
 
 ## Customization
 
-You can modify the tool's beahviour with the following flags:
+You can modify the tool's behaviour with the following flags:
 
 | Flag | Type | Default | Meaning
 | :---:|:--:|:--:|:--|
-| p | string | N/D | where the file will be downloaded, default to a file with the same name in our current directory |
+| p | string | /   | where the file will be downloaded, defaults to your current directory |
 | i | int    | 1   | the interval, in seconds, between each update log|
     
 
